@@ -7,7 +7,7 @@
 
 #### Marque esse projeto com uma estrela ⭐
 #### Siga as instruções das aulas e conteúdos 📚
-#### Visite a página do Challenge [Clicando aqui!](https://www.alura.com.br/challenges/oracle-one) 📃
+#### Visite a página do Challenge [Clicando aqui!](https://www.alura.com.br/challenges/oracle-one/sprint01-construa-decodificador-texto-com-javascript) 📃
 ---
 
 ## Como listar o meu projeto neste Challenge?
@@ -18,6 +18,7 @@
 3) Utilize o tópico:
      - Turma 1: **challengeonelogicabr**
      - Turma 2: **challengeonedecodificador2**
+     - Turma 3: **challengeonedecodificador3**
 
 
 Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
@@ -31,7 +32,7 @@ Adicione a tag "**challengeonelogicabr**" ou "**challengeonedecodificador2**" de
 4) Preenche o formulário de entrega com o **link do projeto publicado com GitHub Pages**
 🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one)
 
-![formulario-entrega](https://user-images.githubusercontent.com/91544872/153610784-525ff005-d667-43f1-adcc-155b5274d87b.png)
+![formulario-entrega]![image](https://user-images.githubusercontent.com/101413385/185678751-c7491191-dfd9-42a2-9b3b-622f3bcd3acc.png)
 
 5) Acesse seu e-mail e terá a sua Badge Exclusiva do Desafio 🏆
 6) Não se esqueça de publicar um link ou vídeo do seu projeto no Linkedin! 🏁
