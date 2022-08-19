@@ -1,4 +1,4 @@
-# Alura Challenge | Oracle One | Lógica de Programação - Decodificador de texto
+# Challenge ONE | Lógica de Programação - Decodificador de texto
 ### Seja bem vindo ao projeto base do Decodificador de texto! Passos fundamentais:
 
 <p align="center" >
@@ -22,7 +22,7 @@
 
 
 Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-Adicione a tag "**challengeonelogicabr**" ou "**challengeonedecodificador2**" dependendo de qual turma você pertence.
+Adicione a tag "**challengeonelogicabr**", "**challengeonedecodificador2**" ou "**challengeonedecodificador3**" dependendo de qual turma você pertence.
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
