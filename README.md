@@ -1,4 +1,4 @@
-# Challenge ONE | Lógica de Programação - Decodificador de texto
+# Challenge ONE | Lógica de Programação | Decodificador de texto
 ### Seja bem vindo ao projeto base do Decodificador de texto! Passos fundamentais:
 
 <p align="center" >
@@ -7,22 +7,21 @@
 
 #### Marque esse projeto com uma estrela ⭐
 #### Siga as instruções das aulas e conteúdos 📚
-#### Visite a página do Challenge [Clicando aqui!](https://www.alura.com.br/challenges/oracle-one/sprint01-construa-decodificador-texto-com-javascript) 📃
+
 ---
 
 ## Como listar o meu projeto neste Challenge?
 ---
 
 1) Publique o projeto no GitHub
-2) Publica no GitHub Pages: [Como publicar meu projeto com GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site) 
+2) Publica no GitHub Pages: [Como colocar seu projeto no ar com o Github Pages?](https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages) 
 3) Utilize o tópico:
-     - Turma 1: **challengeonelogicabr**
-     - Turma 2: **challengeonedecodificador2**
      - Turma 3: **challengeonedecodificador3**
+     - Turma 4: **challengeonedecodificador4**
 
 
 Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-Adicione a tag "**challengeonelogicabr**", "**challengeonedecodificador2**" ou "**challengeonedecodificador3**" dependendo de qual turma você pertence.
+Adicione a tag "**challengeonedecodificador3**" ou "**challengeonedecodificador4**" dependendo de qual turma você pertence.
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
