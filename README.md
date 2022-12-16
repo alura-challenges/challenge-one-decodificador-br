@@ -29,9 +29,9 @@ Adicione a tag "**challengeonedecodificador3**" ou "**challengeonedecodificador4
 ---
 
 4) Preenche o formulário de entrega com o **link do projeto publicado com GitHub Pages**
-🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one)
+🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues)
 
-![formulario-entrega]![image](https://user-images.githubusercontent.com/101413385/185678751-c7491191-dfd9-42a2-9b3b-622f3bcd3acc.png)
+![formulario-entrega]![image](https://user-images.githubusercontent.com/92184087/208179699-a9fc5b9e-c9b5-4dab-a711-43ddfbcd00d0.png))
 
 5) Acesse seu e-mail e terá a sua Badge Exclusiva do Desafio 🏆
 6) Não se esqueça de publicar um link ou vídeo do seu projeto no Linkedin! 🏁
