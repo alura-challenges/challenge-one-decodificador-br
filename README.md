@@ -16,12 +16,12 @@
 1) Publique o projeto no GitHub
 2) Publica no GitHub Pages: [Como colocar seu projeto no ar com o Github Pages?](https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages) 
 3) Utilize o tópico:
-     - Turma 3: **challengeonedecodificador3**
      - Turma 4: **challengeonedecodificador4**
+     - Turma 5: **challengeonedecodificador5**
 
 
 Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-Adicione a tag "**challengeonedecodificador3**" ou "**challengeonedecodificador4**" dependendo de qual turma você pertence.
+Adicione a tag "**challengeonedecodificador4**" ou "**challengeonedecodificador5**" dependendo de qual turma você pertence.
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
